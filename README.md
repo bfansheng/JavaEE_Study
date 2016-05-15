@@ -3,6 +3,3 @@
 * request(HttpRequest)
 * session(HttpSession)
 * application(ServletContenxt)
-    `
-    adfafafaf
-    `
